@@ -1,7 +1,0 @@
-# Example Helm values.yaml
-image:
-  registry: repo.example.tld
-  repository: example/repo
-  tag: e2db4181dde14a46eb0079e5e026aa694db01768
-route:
-  host: example-fc613b4d.apps.origin.baloise.dev
