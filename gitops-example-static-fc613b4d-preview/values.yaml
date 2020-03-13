@@ -2,6 +2,6 @@
 image:
   registry: repo.example.tld
   repository: example/repo
-  tag: v0.44.0
+  tag: e2db4181dde14a46eb0079e5e026aa694db01768
 route:
-  host: example-previewplaceholder.apps.origin.baloise.dev
+  host: example-fc613b4d.apps.origin.baloise.dev
